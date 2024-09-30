@@ -155,3 +155,4 @@ function initShaders( gl, vertexShaderSrc, fragmentShaderSrc )
     }
 
     return program;
+}
