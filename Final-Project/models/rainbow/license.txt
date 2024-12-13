@@ -1,0 +1,11 @@
+Model Information:
+* title:	rainbow 2
+* source:	https://sketchfab.com/3d-models/rainbow-2-976dc2db6cd4451fb3c13f587d579606
+* author:	moroplogo (https://sketchfab.com/moroplogo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "rainbow 2" (https://sketchfab.com/3d-models/rainbow-2-976dc2db6cd4451fb3c13f587d579606) by moroplogo (https://sketchfab.com/moroplogo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
