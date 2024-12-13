@@ -35,3 +35,10 @@ The game will feature simple animations for the players movement, branch swaying
 - **Models**: One or more models in GLTF or OBJ format for tree platforms or branches.
 - **Animation**: Implement basic animations using Three.js (e.g., transforms for jumping, branch movement).
 - **Textures/Lighting**: Use textures for realistic surfaces, and lighting for atmospheric effects.
+
+
+
+# Final Projext Proposal
+
+[Project](https://docs.google.com/presentation/d/1mS0PJ-EidLpWnpyekmPdK6TDpqOFUdE9L2zDlt3TIKA/edit?usp=sharing)
+
